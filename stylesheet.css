@@ -1,0 +1,21 @@
+            .heading {
+                padding: 60px;;
+                font-size: 25px;
+                text-align: center;
+                background: #B3B1FF;
+            }
+           
+ 
+            .section {
+               background-color: #E9E2FA;
+               font-size: 25px;
+               text-align: center;
+               padding: 20px;
+               margin-top: 30px;
+            }
+            .center {
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+              width: 20%;
+            }
